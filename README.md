@@ -9,6 +9,7 @@ The goal is to collect one meaningful quote each day and record a small reflecti
 | Date | Category | Quote |
 |---|---|---|
 | 2026-10-02 | Motivation | "The secret of getting ahead is getting started." |
+| 2026-10-03 | Inner Peace | "Light does not defeat the night; it simply makes the dark visible." |
 
 ## 📂 Structure
 
