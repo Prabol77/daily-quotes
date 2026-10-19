@@ -24,6 +24,8 @@ The goal is to collect one meaningful quote each day and record a small reflecti
 | 2026-10-15 | Resilience | "A morning of unbroken sunlight does not erase the storm gathering for the afternoon." |
 | 2026-10-16 | Foresight | "An unclouded sky does not guarantee an effortless path; it simply removes your excuses for not seeing what lies ahead." |
 | 2026-10-17 | Acceptance | "A clear morning sky promises smooth sailing, yet the calmest air often gathers the quiet energy of an afternoon shower." |
+| 2026-10-18 | Patience | "Even the strongest tree grows quietly where no one can see it." |
+| 2026-10-19 | Grounding | "A compass does not calm the sea; it gives the traveller a direction when the waves make every landmark uncertain." |
 
 ## 📂 Structure
 
